@@ -20,8 +20,7 @@ Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
 
-#### I've deduced that the median-of-three method is more likely to choose a 
-#### good pivot than choosing the first element by this reasoning:
+#### I've deduced that the median-of-three method is more likely to choose a good pivot than choosing the first element by this reasoning:
 
 Using the probabilities for picking a pivot that we defined in lecture, if you 
 were to choose the first element of a randomly ordered array, there would be a 50% 
